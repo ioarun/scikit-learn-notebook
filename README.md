@@ -1,10 +1,12 @@
-# A Quick Guide to Scikit-Learn 
+# Useful Scikit-learn methods
 
 <p align="center">
 <img src="images/scikit-learn-logo.png" alt="logo" width="100%"/>
 </p>
 
- Scikit-learn is an opensource machine learning library and has collection of all the popular machine learning algorithms. It also provides various tools for model fitting, data preprocessing, model selection and evaluation, and many other utilities. It makes these available by providing highly optimized python functions and classes. 
+ Scikit-learn is an opensource machine learning library and has a collection of all the popular machine learning algorithms. It also provides various tools for model fitting, data preprocessing, model selection and evaluation, and many other utilities. It makes these available by providing highly optimized python functions and classes. 
+
+ In this repository, I've put a jupyter notebook that has a collection of useful scikit-learn methods. 
 
  ## Installation
 
